@@ -1,0 +1,7 @@
+_PackageInt/
+Export/
+Packages/
+PackageSources/modules/*.wasm
+Sources/Code/MSFS/
+.vs/
+*.vcxproj.proj.user

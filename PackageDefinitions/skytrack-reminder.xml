@@ -1,0 +1,23 @@
+<AssetPackage Name="skytrack-reminder" Version="0.1.0">
+	<ItemSettings>
+		<ContentType>MISC</ContentType>
+		<Title>SkyTrack Reminder</Title>
+		<Manufacturer/>
+		<Creator>Simon Slater</Creator>
+	</ItemSettings>
+	<Flags>
+		<VisibleInStore>false</VisibleInStore>
+		<CanBeReferenced>false</CanBeReferenced>
+	</Flags>
+	<AssetGroups>
+		<AssetGroup Name="SKS_SkyTrack_Reminder">
+			<Type>Copy</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\modules\</AssetDir>
+			<OutputDir>modules\</OutputDir>
+		</AssetGroup>
+	</AssetGroups>
+</AssetPackage>
+
